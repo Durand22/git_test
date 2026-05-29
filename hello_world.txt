@@ -1,0 +1,1 @@
+hello this is me starting odin project day 2
